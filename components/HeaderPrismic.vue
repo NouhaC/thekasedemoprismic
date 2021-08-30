@@ -20,7 +20,7 @@ export default {
 
 <style scoped>
 .site-header {
-  height: 30px;
+  height: 60px;
   padding: 20px 0;
   color: #484d52;
   font-weight: 700;
